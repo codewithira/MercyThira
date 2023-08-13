@@ -26,9 +26,8 @@ Throughout my career, I have achieved remarkable feats, including successfully l
 With a vision to empower businesses with scalable and flexible solutions, I envision a future where i can leverage my expertise in cloud computing to create sustainable and transformative software applications. Through my remarkable achievements and unwavering dedication to my craft, I continue to make a positive impact in the tech industry, and my journey is only just beginning.
 
 ### PORTFOLIO
-
-+ [Team Project Video](https://youtu.be/89PKPL_qyZQ)
-+ [Team Slide Deck](https://docs.google.com/presentation/d/1Tk3_CvKYRMBecUQVV_QQTaK7CyJVCTSsItp-OAQjxvg/edit?usp=sharing)
+- [Team Project Video](https://youtu.be/89PKPL_qyZQ)
+- [Team Slide Deck](https://docs.google.com/presentation/d/1Tk3_CvKYRMBecUQVV_QQTaK7CyJVCTSsItp-OAQjxvg/edit?usp=sharing)
 
 ### ELEVATOR PITCH
 <hr>

@@ -29,8 +29,8 @@ With a vision to empower businesses with scalable and flexible solutions, I envi
 
 ### PORTFOLIO
 
-[Team Project Video](https://youtu.be/89PKPL_qyZQ)
-[Team Slide Deck](https://docs.google.com/presentation/d/1Tk3_CvKYRMBecUQVV_QQTaK7CyJVCTSsItp-OAQjxvg/edit?usp=sharing)
++ [Team Project Video](https://youtu.be/89PKPL_qyZQ)
++ [Team Slide Deck](https://docs.google.com/presentation/d/1Tk3_CvKYRMBecUQVV_QQTaK7CyJVCTSsItp-OAQjxvg/edit?usp=sharing)
 
 ### ELEVATOR PITCH
 <hr>

@@ -1,6 +1,5 @@
-# MercyThira
-My simple website
-![githubbanner](https://user-images.githubusercontent.com/51013354/228838052-f59074c7-fe22-4fd2-856d-19423dbbf3c3.png)
+![Colorful Shapes Header Banner (1)](https://github.com/codewithira/MercyThira/assets/138221085/4f194dbc-8545-4f70-998d-963350a89f80)
+
 
 <div align="center">
    <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
@@ -16,50 +15,39 @@ My simple website
 <a href=""><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/></a>&nbsp;&nbsp;
  </p>
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## :book: BIO
 <!-- 
 -  🌐 Checkout my <a href="">profile </a> and <a href = "https://medium.com/@thiragithinji"> blog</a>.  -->
 
-- :woman_technologist:Core team member at [waya](https://getwaya.com/) and [pigibank](https://pigibank.co.ke/)
-- 🌱 I’m currently learning  Web Development Technologies in Frontend.
-- 💞️ I’m looking to collaborate on Javascript and Python tasks.
-- 📫 How to reach me thiragithinji@gmail.com
+A skilled and passionate software engineer with a background in Business Information Technology. As a dedicated professional, I specialize in building mobile and web applications, DevOps, and cloud computing operations. I value my brilliant and hardworking naturethat has earned me recognition as a proficient problem solver in the tech industry.
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Django](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+Currently, I am thriving as an integral member of a renowned software development company, where i actively contributes to the creation of innovative software solutions. My commitment to staying updated with cutting-edge technologies drives my aspiration to continuously advance my technological expertise and become a prominent figure in the field of cloud computing.
 
-### Technologies
+Throughout my career, I have achieved remarkable feats, including successfully leading the development of a complex mobile application that received widespread acclaim from users and stakeholders. Additionally, My implementation of DevOps practices streamlined the development and deployment processes, significantly reducing project timelines and enhancing team efficiency.
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+With a vision to empower businesses with scalable and flexible solutions, I envision a future where i can leverage my expertise in cloud computing to create sustainable and transformative software applications. Through my remarkable achievements and unwavering dedication to my craft, I continue to make a positive impact in the tech industry, and my journey is only just beginning.
 
-### Profile stats
+### PORTFOLIO
+
+![Team Project Video](https://youtu.be/89PKPL_qyZQ)
+![Team Slide Deck](https://docs.google.com/presentation/d/1Tk3_CvKYRMBecUQVV_QQTaK7CyJVCTSsItp-OAQjxvg/edit?usp=sharing)
+
+### ELEVATOR PITCH
 <hr>
+I'm Mercy, a dedicated and skilled software engineer with a background in Business Information Technology. I specialize in building mobile and web applications, DevOps, and cloud computing operations.
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=thirathenerd&count_private=true&show_icons=true) -->
-<a href=""><img height="137px" src="https://github-readme-stats.vercel.app/api?username=thirathenerd&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirathenerd&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+My top skills include software development, DevOps implementation, and cloud computing. 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=thirathenerd)
+What sets me apart is my proven track record of solving complex problems in the tech industry. I've led the development of a highly acclaimed mobile application and implemented DevOps practices that significantly streamlined project timelines and team efficiency.
 
+I am the best person to offer these skills because of my unwavering commitment to staying updated with the latest technologies and my passion for creating innovative solutions that drive business growth.
+
+By leveraging my expertise, your company can benefit from scalable and flexible software applications that will simplify operations and enhance user experiences.
+
+I'd be delighted to contribute my skills and expertise to your team and help you achieve your technological goals. Let's work together to create a transformative future in the world of cloud computing. Thank you.
+
+[Optional Ask: If you're interested in taking your projects to the next level, I'd love to discuss how my skills can contribute to your success.]
+
+
+ 
 <hr>

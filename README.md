@@ -12,7 +12,7 @@
 <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
  <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href=""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/></a>&nbsp;&nbsp;
-
+</p>
 ## BIO
 <!-- 
 -  🌐 Checkout my <a href="">profile </a> and <a href = "https://medium.com/@thiragithinji"> blog</a>.  -->

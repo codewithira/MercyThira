@@ -15,7 +15,7 @@
 <a href=""><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/></a>&nbsp;&nbsp;
  </p>
 
-## :book: BIO
+## BIO
 <!-- 
 -  🌐 Checkout my <a href="">profile </a> and <a href = "https://medium.com/@thiragithinji"> blog</a>.  -->
 
@@ -29,8 +29,8 @@ With a vision to empower businesses with scalable and flexible solutions, I envi
 
 ### PORTFOLIO
 
-![Team Project Video](https://youtu.be/89PKPL_qyZQ)
-![Team Slide Deck](https://docs.google.com/presentation/d/1Tk3_CvKYRMBecUQVV_QQTaK7CyJVCTSsItp-OAQjxvg/edit?usp=sharing)
+[Team Project Video](https://youtu.be/89PKPL_qyZQ)
+[Team Slide Deck](https://docs.google.com/presentation/d/1Tk3_CvKYRMBecUQVV_QQTaK7CyJVCTSsItp-OAQjxvg/edit?usp=sharing)
 
 ### ELEVATOR PITCH
 <hr>
@@ -45,9 +45,4 @@ I am the best person to offer these skills because of my unwavering commitment t
 By leveraging my expertise, your company can benefit from scalable and flexible software applications that will simplify operations and enhance user experiences.
 
 I'd be delighted to contribute my skills and expertise to your team and help you achieve your technological goals. Let's work together to create a transformative future in the world of cloud computing. Thank you.
-
-[Optional Ask: If you're interested in taking your projects to the next level, I'd love to discuss how my skills can contribute to your success.]
-
-
- 
 <hr>

@@ -17,9 +17,9 @@
 <!-- 
 -  🌐 Checkout my <a href="">profile </a> and <a href = "https://medium.com/@thiragithinji"> blog</a>.  -->
 
-A skilled and passionate software engineer with a background in Business Information Technology. As a dedicated professional, I specialize in building mobile and web applications, DevOps, and cloud computing operations. I value my brilliant and hardworking naturethat has earned me recognition as a proficient problem solver in the tech industry.
+A skilled and passionate software engineer with a background in Business Information Technology. As a dedicated professional, I specialize in building mobile and web applications, DevOps, and cloud computing operations. I value my brilliant and hardworking nature that has earned me recognition as a proficient problem solver in the tech industry.
 
-Currently, I am thriving as an integral member of a renowned software development company, where i actively contributes to the creation of innovative software solutions. My commitment to staying updated with cutting-edge technologies drives my aspiration to continuously advance my technological expertise and become a prominent figure in the field of cloud computing.
+Currently, I am thriving as an integral member of a renowned software development company, where i actively contribute to the creation of innovative software solutions. My commitment to staying updated with cutting-edge technologies drives my aspiration to continuously advance my technological expertise and become a prominent figure in the field of cloud computing.
 
 Throughout my career, I have achieved remarkable feats, including successfully leading the development of a complex mobile application that received widespread acclaim from users and stakeholders. Additionally, My implementation of DevOps practices streamlined the development and deployment processes, significantly reducing project timelines and enhancing team efficiency.
 
